@@ -4,8 +4,16 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
+
+<h2> About Me </h2>
+<p><img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9sZnk1eWljYW54b2VicnkxZDNsbDZmYWR3aDdoOGxsOWE5eTFyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UmQrx37p5LVxC/giphy.webp" alt="adam-pw" /></p>
+
+I am a student, learning Engineering in Information Technologies, currently almost halfway thorugh my degree. I like learning new languages (both, programming and speaking) and working on side proyects to reinforce what I learn, and on my side proyects I do most of my games programming.
+
+<h3>A Quick review of my skills</h3>
+
+- 🔭 I’m currently working on School and Side Video Game Proyects
 
 - 🌱 I’m currently learning Engineering in Information Technologies and Telecommunications
 
@@ -44,4 +52,10 @@
     <img src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img src= "https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
+
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarioRaul201&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="MarioRaul201" /></p>
     
